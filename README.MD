@@ -1,5 +1,5 @@
 # Playing with Snap.svg
-Just playing around with snap.svg (http://snapsvg.io/). Grabbed some illustrations from https://freepik.com, made some minor changes using Adobe Illustrator and started animating.
+Just playing around with <a href="http://snapsvg.io/" target="_blank" alt="Snap.svg">snap.svg</a>. Grabbed some illustrations from <a href="https://freepik.com" alt="freepik.com" target="_blank">freepik.com</a>, made some minor changes using Adobe Illustrator and started animating.
 
 My main purpose of dong this is just to understand Vector graphics a bit more.
 
