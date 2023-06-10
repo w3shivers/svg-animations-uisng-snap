@@ -1,0 +1,36 @@
+html, body { 
+    margin: 0; 
+    padding: 0; 
+    width: 100%; 
+    height: 100%; 
+    overflow: hidden; 
+}
+
+body { 
+    background-color: #e83f8e; 
+    font-size: 14px; 
+    font-family: sans-serif;
+}
+
+#svgFile { 
+    width: 50%; 
+    height: 96%; 
+    margin: auto; 
+    padding: 2% 0; 
+    position: relative;
+}
+
+#svgFile svg {
+    height: 100%;
+}
+
+.bg_angle{
+    position: absolute;
+    z-index: -1;
+    width: 70%;
+    height: 100%;
+    background-color: #a12e64;
+    right: -25%;
+    margin-top: 0;
+    transform: skewX( -20deg );
+}
